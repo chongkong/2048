@@ -5,11 +5,9 @@
 - python 3.4.3
 - pyglet
   pip을 이용해서 쉽게 설치할 수 있다
-  ```
-  pip install pyglet
-  ```
+
+  `pip install pyglet`
 
 ## Run
-```
-python player.py
-```
+
+`python player.py`
